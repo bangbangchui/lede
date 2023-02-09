@@ -1,3 +1,5 @@
+2023-2-9 更新fork作为备份。感谢原作者Lean
+
 # 欢迎来到 Lean 的 LEDE 源码仓库
 
 如何编译自己需要的 LEDE 固件 [How to build your LEDE firmware](./README_EN.md)
